@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WordCountApp</string>
+    <string name="question">What text are you counting?</string>
+    <string name="shake">Count the words!</string>
+</resources>
